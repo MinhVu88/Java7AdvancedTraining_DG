@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AnonClasses",
+            "request": "launch",
+            "mainClass": "com.lynda.javatraining.AnonClasses",
+            "projectName": "AnonClasses"
+        }
+    ]
+}
